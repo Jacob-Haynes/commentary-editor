@@ -1,0 +1,12 @@
+{
+  "version": "2.0",
+  "app_name": "chalice-commentary-editor",
+  "stages": {
+    "dev": {
+      "environment_variables": {
+        "OPENAI_API_KEY": ""
+      },
+      "api_gateway_stage": "api"
+    }
+  }
+}
